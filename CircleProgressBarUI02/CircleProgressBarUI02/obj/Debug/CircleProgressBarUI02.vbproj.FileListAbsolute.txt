@@ -1,0 +1,16 @@
+c:\users\ilham-pc\documents\visual studio 2015\Projects\CircleProgressBarUI02\CircleProgressBarUI02\bin\Debug\CircleProgressBarUI02.exe.config
+c:\users\ilham-pc\documents\visual studio 2015\Projects\CircleProgressBarUI02\CircleProgressBarUI02\bin\Debug\CircleProgressBarUI02.exe
+c:\users\ilham-pc\documents\visual studio 2015\Projects\CircleProgressBarUI02\CircleProgressBarUI02\bin\Debug\CircleProgressBarUI02.pdb
+c:\users\ilham-pc\documents\visual studio 2015\Projects\CircleProgressBarUI02\CircleProgressBarUI02\bin\Debug\CircleProgressBarUI02.xml
+c:\users\ilham-pc\documents\visual studio 2015\Projects\CircleProgressBarUI02\CircleProgressBarUI02\bin\Debug\Guna.UI.dll
+c:\users\ilham-pc\documents\visual studio 2015\Projects\CircleProgressBarUI02\CircleProgressBarUI02\obj\Debug\CircleProgressBarUI02.vbprojResolveAssemblyReference.cache
+c:\users\ilham-pc\documents\visual studio 2015\Projects\CircleProgressBarUI02\CircleProgressBarUI02\obj\Debug\CircleProgressBarUI02.Form1.resources
+c:\users\ilham-pc\documents\visual studio 2015\Projects\CircleProgressBarUI02\CircleProgressBarUI02\obj\Debug\CircleProgressBarUI02.Resources.resources
+c:\users\ilham-pc\documents\visual studio 2015\Projects\CircleProgressBarUI02\CircleProgressBarUI02\obj\Debug\CircleProgressBarUI02.vbproj.GenerateResource.Cache
+c:\users\ilham-pc\documents\visual studio 2015\Projects\CircleProgressBarUI02\CircleProgressBarUI02\obj\Debug\CircleProgressBarUI02.exe
+c:\users\ilham-pc\documents\visual studio 2015\Projects\CircleProgressBarUI02\CircleProgressBarUI02\obj\Debug\CircleProgressBarUI02.xml
+c:\users\ilham-pc\documents\visual studio 2015\Projects\CircleProgressBarUI02\CircleProgressBarUI02\obj\Debug\CircleProgressBarUI02.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-CircleProgressBar-UI2\CircleProgressBarUI02\CircleProgressBarUI02\bin\Debug\CircleProgressBarUI02.exe.config
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-CircleProgressBar-UI2\CircleProgressBarUI02\CircleProgressBarUI02\obj\Debug\CircleProgressBarUI02.exe
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-CircleProgressBar-UI2\CircleProgressBarUI02\CircleProgressBarUI02\obj\Debug\CircleProgressBarUI02.xml
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-CircleProgressBar-UI2\CircleProgressBarUI02\CircleProgressBarUI02\obj\Debug\CircleProgressBarUI02.pdb
